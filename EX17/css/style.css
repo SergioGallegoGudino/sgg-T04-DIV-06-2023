@@ -1,0 +1,99 @@
+html{
+    background-image: url("../img/ac.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.alinear{
+    border: solid black;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    float: left;
+    margin: 20px;
+}
+
+.alinear2{
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    float: left;
+    margin: 25px;
+}
+
+#A{
+    background-image: url("../img/back_mantel.jpg");
+    background-repeat: repeat;
+}
+
+#B2{
+    background-image: url("../img/back_mantel.jpg");
+    background-repeat: repeat;
+    background-size: 20px 20px;
+    background-position: center;
+}
+
+#C{
+    background-image: url("../img/back_mantel.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#D{
+    background-image: url("../img/back_mantel.jpg");
+    background-repeat: no-repeat;
+    background-size: 150px;
+    background-position: center;
+    background-color: white;
+}
+
+#E{
+    background-image: url("../img/dh.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#F{
+    background-image: url("../img/dh.jpg");
+    background-repeat: no-repeat;
+    background-size: 150px;
+    background-position: center;
+    background-color: white;
+}
+
+#G{
+    background-image: url("../img/dh_2.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 200px;
+    background-color: white;
+}
+
+#H{
+    background-image: url("../img/dh_3.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100px;
+    background-color: white;
+}
+
+#I{
+    background: rgb(180,243,81);
+    background: linear-gradient(90deg, rgba(180,243,81,1) 0%, rgba(41,57,11,1) 100%);
+}
+
+#J{
+    background: rgb(248,221,214);
+    background: linear-gradient(180deg, rgba(248,221,214,1) 0%, rgba(177,90,53,1) 45%, rgba(96,52,35,1) 76%, rgba(75,38,28,1) 86%, rgba(159,78,52,1) 93%, rgba(228,143,116,1) 100%);
+}
+
+#K{
+    background: rgb(50,98,46);
+    background: linear-gradient(360deg, rgba(50,98,46,1) 0%, rgba(222,254,193,1) 100%);
+}
+
+#L{
+    background: rgb(50,98,46);
+    background: linear-gradient(360deg, rgba(50,98,46,1) 0%, rgba(222,254,193,0) 100%);
+}

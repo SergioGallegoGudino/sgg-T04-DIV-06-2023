@@ -1,0 +1,28 @@
+html{
+    background-image: url("../img/pinguinos.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+td, th, table{
+    border-style: outset;
+    border-color: yellow;
+    border-collapse: collapse;
+}
+
+td{
+    background-color: #f7ee99;;
+}
+
+th{
+    background-color: white;
+}
+
+table{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 50%;
+    text-align: center;
+}

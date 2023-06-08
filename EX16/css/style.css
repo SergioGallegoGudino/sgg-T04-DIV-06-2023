@@ -1,0 +1,25 @@
+table{
+    background-image: url("../img/perro.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: brown;
+    text-align: center;
+}
+
+td, th{
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+}
+
+.verde{
+    background-color: #758a72;
+}
+
+.salmon{
+    background-color: #d6a98d;
+}
+
+.amarillo{
+    background-color: #decc97;
+}

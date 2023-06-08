@@ -1,0 +1,30 @@
+table, th, tr, td{
+    border-style:outset;
+    border-color: lightskyblue;
+}
+
+tr#cabecera{
+    background-color: #0e211c;
+    color: #b9f5b8;
+}
+
+th{
+    background-color: #0e211c;
+    color: #b9f5b8;
+}
+
+tr{
+    background-color: #b9f5b8;
+}
+
+tr#alt{
+    background-color: #7cb07b;
+}
+
+.centro{
+    text-align: center;
+}
+
+#espacio{
+    padding-left: 5px;
+}
