@@ -1,0 +1,8 @@
+table, th, td{
+    border: solid black;
+    border-width: 2px;
+}
+
+#strong{
+    font-weight: bold;
+}

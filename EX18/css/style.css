@@ -1,0 +1,22 @@
+div{
+    background-color: #89c5f0;
+    background-image: url("../img/f01.png"), url("../img/f02.png"), url("../img/f03.png");
+    margin: 20px;
+}
+
+#mario1{
+    width: 230px;
+    height: 110px;
+    border: solid blue;
+    background-repeat: repeat-x, no-repeat, no-repeat;
+    background-position: 0 97px,0 0,0 3px;
+
+}
+
+#mario2{
+    width: 440px;
+    height: 430px;
+    border: solid red;
+    background-repeat: repeat-x, no-repeat, repeat-x;
+    background-position: 0 416px,0 320px,0 3px;
+}
